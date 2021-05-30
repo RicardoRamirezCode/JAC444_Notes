@@ -10,6 +10,9 @@ public class Week01 {
 		// sysout + ctrl + space for System.out.println
 		// for IntelliJ sout + tab
 		
+		// Eclipse comment out a block
+		// ctrl + /
+		
 		// variables
 		/*
 		 * data type	size	prim/ref	value
@@ -105,7 +108,6 @@ public class Week01 {
 		// Here:
 		// x is 1
 		// y[0] is 5555
-		
 		
 		// Passing Arrays to Methods
 		// printArray(new int[] {3,1,5});
