@@ -111,7 +111,7 @@ public class Week03 {
 		 *  final class can make objects off final class but cannot extend
 		 *  
 		 * Difference between abstract vs interface
-		 * 		in abstract might have at least one abstract method (could have concret methods)
+		 * 		in abstract might have at least one abstract method (could have concrete methods)
 		 * 		in interface all will be abstract (is meant to be general)
 		 * 
 		 * 		as well:
